@@ -4,9 +4,9 @@ module.exports = {
     node: true,
   },
   extends: [
-    "plugin:vue/essential",
-    "eslint:recommended",
-    "plugin:prettier/recommended",
+    "plugin:vue/essential", //Le righe sono state annulate per il problema del --fix ogni 3 per due 
+    // "eslint:recommended",
+    // "plugin:prettier/recommended",
   ],
   parserOptions: {
     parser: "@babel/eslint-parser",

@@ -61,6 +61,7 @@ export default {
       &:hover {
         color: $brand-primary-color;
       }
+      
     }
   }
 }
